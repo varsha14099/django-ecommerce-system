@@ -1,0 +1,27 @@
+# Virtual environments
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Database
+db.sqlite3
+*.sqlite3
+
+# Media & static
+/media/
+staticfiles/
+static/
+
+# OS / Editor files
+.DS_Store
+.vscode/
+
+# Build files
+dist/
+build/
