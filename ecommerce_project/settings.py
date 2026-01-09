@@ -43,6 +43,11 @@ INSTALLED_APPS = [
     'cart',
     'orders',
     'payments',
+    'order_management',
+    'payment_management',
+    'delivery_management',
+
+
 ]
 
 
